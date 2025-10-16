@@ -1,7 +1,8 @@
 # Week 01 - [16 October 2025 - 23 october 2025]
 ## ✅ Day 1 Tasks(16 october 2025)
 - Add a syllabus tracker in DSA practice folder to track my progress while following Kunal kushwah DSA playlist
-- Solve one easy array problem
+- Solve one easy array problem(https://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=array)
+
 
 
 

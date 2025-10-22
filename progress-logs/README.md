@@ -2,9 +2,9 @@ This Folder is for tacking my progress. In this folder, there is file for each w
 
 Template for each week progress example -
 
-# Week 01 – [Start Date]
+# Week 01 – [17th - 24th october 25]
 
-## ✅ Day 1 Tasks
+## ✅ Day 1 Tasks [17th october 25]
 - Set up GitHub learning repo
 - Watch CS50 Week 1 up to 30 minutes
 - Note 3–5 takeaways from lecture
